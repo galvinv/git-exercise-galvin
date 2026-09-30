@@ -1,1 +1,1 @@
-Hello, this is Galvin learning git
+Hello, this is Galvin learning Git!
